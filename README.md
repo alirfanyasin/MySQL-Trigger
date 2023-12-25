@@ -2,7 +2,7 @@
 
 
 ## Basic Trigger
-```
+```sql
 CREATE TRIGGER trigger_name
   AFTER INSERT
   ON table_name
