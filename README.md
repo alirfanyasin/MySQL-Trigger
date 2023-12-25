@@ -15,3 +15,5 @@
 ## Peringatan
 - Penggunaan trigger perlu diperhatikan agar tidak menyebabkan kompleksitas yang tidak diinginkan.
 - Terlalu banyak trigger atau trigger yang kompleks dapat membuat sistem sulit dipahami.
+
+[Baca Selengkapnya](https://github.com/alirfanyasin/MySQL-Trigger/wiki/01_Basic-Trigger)
