@@ -61,13 +61,13 @@ SELECT * FROM guru_log;
 ```
 
 
-Data Awal di table `guru`
+Data Awal di table `guru` <br>
 ![image](https://github.com/alirfanyasin/MySQL-Trigger/assets/77270380/c236be19-9bc0-40fc-9f67-9213804a7311)
 
-Data setelah di update di table `guru`
+Data setelah di update di table `guru` <br>
 ![image](https://github.com/alirfanyasin/MySQL-Trigger/assets/77270380/6d6dafa6-d62b-4013-8f82-cad3f542f249)
 
-Data di table `guru_log`
+Data di table `guru_log` <br>
 ![image](https://github.com/alirfanyasin/MySQL-Trigger/assets/77270380/0e02cd4b-2138-4b42-81c1-b43039b17368)
 
 
