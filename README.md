@@ -49,6 +49,7 @@ BEGIN
 END;
 ```
 
+
 Jalankan perintah update untuk mengtrigger `guru_log` 
 ```sql
 UPDATE guru SET nama_guru = 'Hendry' WHERE guru_id = 1;
@@ -58,6 +59,17 @@ Lihat di dalam tablenya sekarang ada data `nama_guru` yang lama dan data yang ba
 ```sql
 SELECT * FROM guru_log;
 ```
+
+
+Data Awal di table `guru`
+![image](https://github.com/alirfanyasin/MySQL-Trigger/assets/77270380/c236be19-9bc0-40fc-9f67-9213804a7311)
+
+Data setelah di update di table `guru`
+![image](https://github.com/alirfanyasin/MySQL-Trigger/assets/77270380/6d6dafa6-d62b-4013-8f82-cad3f542f249)
+
+Data di table `guru_log`
+![image](https://github.com/alirfanyasin/MySQL-Trigger/assets/77270380/0e02cd4b-2138-4b42-81c1-b43039b17368)
+
 
 
 
