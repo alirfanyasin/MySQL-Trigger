@@ -14,7 +14,7 @@ END;
 ```
 
 ## Crete Trigger
-Membuat trigger untuk melihat perubahan data
+Membuat trigger untuk melihat perubahan data <br>
 Example:
 
 Gunakan database `sekolah.sql`
